@@ -37,7 +37,7 @@ class RMB2AUD(object):
 
 if __name__ == '__main__':
 	AUD = RMB2AUD()
-	AUD.getPrice(60)
+	AUD.getPrice()
 
 	
 	
